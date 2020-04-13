@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Covidstat app
 
 You can use the [editor on GitHub](https://github.com/ir2pid/Covidstat.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
