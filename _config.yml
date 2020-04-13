@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 title: Covidstat
 description: Get all the news and statistics on the Coronavirus pandemic.
-logo: https://avatars0.githubusercontent.com/u/907075?s=400&u=91bc99849773cd631d745c4b90c4ae553ef23855&v=4
+logo: https://raw.githubusercontent.com/ir2pid/CovidStatApp/master/app_icon.png
 show_downloads: false
