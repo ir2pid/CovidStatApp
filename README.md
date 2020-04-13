@@ -15,5 +15,5 @@ Privacy Policy created with GetTerms.
 Having trouble with app? Mail us at noisyninja7@gmail.com and we’ll help you sort it out.
 
 ### About me
-[Profile](https://ir2pid.github.io)
+[Profile](https://ir2pid.github.io)<br>
 [Stackoverflow](https://stackoverflow.com/users/838355/ir2pid)
